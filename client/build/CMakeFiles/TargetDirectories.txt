@@ -1,5 +1,0 @@
-/home/jeremmy/university/multithread/bastard-pixel-battle-private/client/build/CMakeFiles/client.dir
-/home/jeremmy/university/multithread/bastard-pixel-battle-private/client/build/CMakeFiles/edit_cache.dir
-/home/jeremmy/university/multithread/bastard-pixel-battle-private/client/build/CMakeFiles/rebuild_cache.dir
-/home/jeremmy/university/multithread/bastard-pixel-battle-private/client/build/CMakeFiles/client_autogen_timestamp_deps.dir
-/home/jeremmy/university/multithread/bastard-pixel-battle-private/client/build/CMakeFiles/client_autogen.dir
