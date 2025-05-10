@@ -22,7 +22,8 @@ Server running
 ### hardcoded params
 look client's main 
 
-`DOMAIN` - server's ip or domain name
+`DOMAIN` - server's ip or domain 
+
 `PORT` - server's port
 ### setup
 ```bash
