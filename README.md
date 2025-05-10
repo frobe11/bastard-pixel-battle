@@ -8,8 +8,8 @@
 - `PORT` - server's port
 ### setup
 ```bash
-mkdir ./client/build
-cd server/build
+mkdir ./build
+cd build
 cmake ..
 make
 sudo ./client 
